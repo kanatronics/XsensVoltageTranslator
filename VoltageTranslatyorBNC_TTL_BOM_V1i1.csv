@@ -1,0 +1,13 @@
+Comment,Designator,Footprint,LCSC Part #
+100n Unpolarized capacitor,C1,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C14663
+10u Polarized capacitor,"c2,c4",CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder,C7171
+1n Unpolarized capacitor,C3,C_0201_0603Metric_Pad0.64x0.40mm_HandSolder,C1588
+LED Light emitting diode,D1,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C84256
+FerriteBead Ferrite bead,"FB1,FB2",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C1015
+MountingHole Mounting Hole without connection,"H1,H2,H3,H4,H5",MountingHole_3.5mm_Pad_TopBottom,N/A
+"Conn_Coaxial coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)","J1,J2,J3,J4,J5,J6,J7,J8",BNC_Amphenol_B6252HB-NPP3G-50_Horizontal,C2837588
+USB_B_Mini USB Mini Type B connector,J9,USB_Mini-B_Lumberg_2486_01_Horizontal,C2681563
+"BSS138 50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23","Q1,Q2,Q3,Q4",SOT-23,C3015220
+10k Resistor,"R1,R2,R3,R4,R5,R6,R7,R8,R9",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25804
+270R Resistor,R10,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C22966
+"LD1117S33TR_SOT223 800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 3.3V, SOT-223",U1,SOT-223-3_TabPin2,C126027
